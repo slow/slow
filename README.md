@@ -1,6 +1,6 @@
+<h2 align="center">Stats</h2>
 <a href="https://github.com/slow">
   <p align="center">
-    Stats
     <img src="https://komarev.com/ghpvc/?username=slow" alt="Profile Views Count">
   </p>
 </a>
