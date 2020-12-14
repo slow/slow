@@ -5,6 +5,7 @@
   </p>
 </a>
 
+<p align="center">
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
@@ -15,3 +16,4 @@
     </td>
   </tr>
 </table>
+</p>
