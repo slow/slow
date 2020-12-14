@@ -1,6 +1,10 @@
-### Stats 
+<a href="https://github.com/slow">
+  <p align="center">
+    Stats
+    <img src="https://komarev.com/ghpvc/?username=slow" alt="Profile Views Count">
+  </p>
+</a>
 
-![Profile views](https://komarev.com/ghpvc/?username=slow)
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
